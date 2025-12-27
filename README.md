@@ -1,0 +1,1 @@
+The Loan pay back prediction system is a specialized Credit Risk Decision System. It uses Machine Learning to evaluate loan applications and predict if an applicant will repay their loan (Paid Back) or likely default (No paid back). This tool helps financial institutions automate risk assessment with high accuracy.
