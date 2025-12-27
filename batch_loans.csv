@@ -1,0 +1,6 @@
+annual_income,credit_score,debt_to_income_ratio,loan_amount,interest_rate,gender,marital_status,education_level,employment_status,loan_purpose,grade_subgrade
+55000,720,0.15,10000,8.5,0,1,1,1,1,10
+28000,610,0.42,12000,16.2,1,0,0,0,5,28
+115000,810,0.08,5000,6.5,0,1,2,1,2,4
+42000,685,0.22,9000,11.0,1,2,1,1,1,14
+31000,630,0.38,15000,17.5,0,0,0,2,3,26
